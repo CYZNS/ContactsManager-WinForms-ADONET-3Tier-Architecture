@@ -29,13 +29,14 @@ The solution is structurally divided into three distinct layers to ensure mainta
 * **Architecture Design:** 3-Tier / Layered Architecture
 
 ## 📸 Screenshots
-*(Placeholder for UI screenshots. I will update this section soon!)*
-* `![Main Screen](link)`
-* `![Add/Edit Screen](link)`
+<img width="1281" height="778" alt="image" src="https://github.com/user-attachments/assets/40b228df-4f9e-4412-8ea7-97a495942178" />
+<img width="828" height="761" alt="image" src="https://github.com/user-attachments/assets/a8177f49-02b3-4146-a362-6529f084854a" />
+
+
 
 ## ⚙️ How to Run
 1. Clone the repository.
 2. Open `Contacts Project.sln` in Visual Studio.
 3. Ensure the connection string in the Data Access Layer points to your local SQL Server database.
 4. Set the Windows Forms UI project as the **Startup Project**.
-5. Run the application (`F5`).<img width="542" height="230" alt="Screenshot 2026-06-11 165327" src="https://github.com/user-attachments/assets/b94293a6-719c-4b70-a349-b0dc201bb52b" />
+5. Run the application (`F5`).
