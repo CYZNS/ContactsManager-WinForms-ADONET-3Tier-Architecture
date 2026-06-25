@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Contacts Project WIndowsForms/Contacts Project WIndowsForms.csproj" Id="c0abae04-28de-480d-8a0e-f300f23634b3" />
+  <Project Path="ContactsBusinessLayer/ContactsBusinessLayer.csproj" Id="535dec41-942e-4f95-81b6-a1ab12f61f3d" />
+  <Project Path="ContactsDataAccessLayer/ContactsDataAccessLayer.csproj" Id="b09201f0-6636-4eef-b679-e7ca9e012765" />
+</Solution>
